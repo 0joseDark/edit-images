@@ -1,2 +1,3 @@
 # edit-images
- edit-images
+
+# pip install pillow
